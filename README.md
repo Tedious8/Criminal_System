@@ -1,0 +1,3 @@
+- The dist folder is the build React app
+- The app.py file is where to put the result of the data
+- Feel free to create new python file
