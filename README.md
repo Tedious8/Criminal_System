@@ -1,3 +1,4 @@
 - The dist folder is the build React app
 - The app.py file is where to put the result of the data
 - Feel free to create new python file
+- After installing the dependencies or packages run the app.py file and open http://127.0.0.1:5000 to see the interface
