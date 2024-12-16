@@ -15,3 +15,11 @@ pip install FlagEmbedding
 ```
 
 Basically these three packages are important. There might be some error when installing or using this repository on different environment.
+
+/Criminal_System
+|
+|-- /dist
+| |-- /assets
+| |-- index.html
+|-- app.py # The main python file (web app)
+|-- legal_prediction.py # The model python file (BGE-M3)
